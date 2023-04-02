@@ -1,0 +1,22 @@
+{
+    "miembros": [
+        {
+            "nombre": "Álvaro Aguirre Ulloa",
+            "apodo" : "Gato Mota",
+            "pass": "1234",
+            "ids": {
+                "id": "1234",
+                "pase": ""
+            }
+        },
+        {
+            "nombre": "Johann Villarroel",
+            "apodo" : "Johann",
+            "pass": "4321",
+            "ids": {
+                "id": "4321",
+                "pase": ""
+            }
+        }
+    ]
+}
